@@ -1,12 +1,12 @@
 {
-  "title": "cPanel Test Scenario 1",
+  "title": "Introduction to 'find'",
   "description": "",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Getting started with 'find'",
         "text": "step1.md"
       },
       {
