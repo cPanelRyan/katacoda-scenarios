@@ -14,8 +14,14 @@ What does it do? It “finds” files. By default, it outputs their path relativ
 
 You can target _any_ path to begin finding within, but one of the most common places to start from is the directory you're already in. This, in bash, is commonly represented by the shorthand: a single period (`.`). So, if we were to execute the find command on the current directory, with no other arguments or flags, what do you think would happen?
 
-Let's find out: `find .`{{execute}}
+Let's find out: 
 
-That didn't help much, did it. But.. if you list the contents of this folder, you'll find out why: `ls`{{execute}}
+`find .`{{execute}}
 
-So next, let's try something a little more interesting with the `find` tool.
+That didn't help much, did it. But.. if you list the contents of this folder, you'll find out why: 
+
+`ls`{{execute}}
+
+There's no output because.. well, there's no files in the folder we're currently in.
+
+So next, let's try something a little more interesting.

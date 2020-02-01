@@ -1,12 +1,12 @@
 {
-  "title": "Introduction to 'find'",
-  "description": "How to find anything and everything.",
+  "title": "An introduction to 'find'",
+  "description": "How to find everything and anything",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
     "steps": [
       {
-        "title": "Getting started with 'find'",
+        "title": "Getting Started",
         "text": "step1.md"
       },
       {
