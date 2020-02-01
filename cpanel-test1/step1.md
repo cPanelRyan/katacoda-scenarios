@@ -16,4 +16,6 @@ You can target _any_ path to begin finding within, but one of the most common pl
 
 Let's find out: `find .`{{execute}}
 
-That's a lot of information, and it's not very useful to someone looking for something very specific. Let's continue on to see what else we can do to narrow things down.
+That didn't help much, did it. But.. if you list the contents of this folder, you'll find out why: `ls`{{execute}}
+
+So next, let's try something a little more interesting with the `find` tool.
