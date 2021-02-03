@@ -10,13 +10,15 @@ A `man` page doesn't have to relate specifically to a command, and often you can
 Using the terminal to the right, pull up the `man` page for `filesystems`.
 
 <details>
-  <summary>Need help?</summary>
-  If you're having trouble figuring it out, the command you're looking for is as simple as running:
-  `man filesystem`{{execute}}
+  <summary>**Need help?**</summary>
+  If you're having trouble figuring it out, the command you're looking for is as simple as running: <br />
+  `man filesystems`{{execute}} <br />
   Click the command shown above, and we'll execute this for you.
 </details>
 
 Once you've done that, answer this quick question:
 
->>Q1: Enter the name of the supported file system type that supports journaling, was developed by IBM, and into Linux in kernel 2.4.24 (answer is case-sensitive):<<
+## Keeping up?
+
+>>In the text field below, enter the name of the supported file system type that supports journaling, was developed by IBM, and into Linux in kernel 2.4.24 (answer is case-sensitive):<<
 === JFS
