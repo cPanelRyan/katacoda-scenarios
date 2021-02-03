@@ -22,3 +22,10 @@ Once you've done that, answer this quick question:
 
 >>In the text field below, enter the name of the supported file system type that supports journaling, was developed by IBM, and into Linux in kernel 2.4.24 (answer is case-sensitive):<<
 === JFS
+
+<details>
+  <summary>**Need help?**</summary>
+  If you can't find what we're looking for here, make sure you ran the `man filesystems`{{copy}} command and were able to see output from the filesystems man pages within the terminal. Within this output, you should see a list of file system types, and among this list there is one specific file system type that very specifically matches the description provided above.
+</details>
+
+Once you've submitted the correct answer to the above question, you'll be able to proceed ahead to the next step.
