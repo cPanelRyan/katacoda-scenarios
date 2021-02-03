@@ -4,4 +4,4 @@ This course aims to introduce folks who already have experience working within L
 
 ## Getting started
 
-First, let's check out some of the very fundamental features that Ubuntu Server provides.
+First, let's we'll get a quick run-down of what Ubuntu is (I promise we'll keep it short). After that, we'll start seeing what we can do in the OS.

@@ -1,10 +1,13 @@
-#  Getting the hang of Ubuntu
 
-Working with a user interface like Ubuntu Desktop, Fedora, or other major consumer-focused Linux distributions can be a good introduction into working within Linux, as you inevitably will find yourself needing to interact with the terminal from time to time, which is ultimately the key approaching environment mastery.
+#  Getting the hang of it
 
-For the purposes of our exercise, we're going to look at this from the perspective of an administrator seeking to operate a web hosting environment through the use of Ubuntu Server, which, in its ideal (minimal) initial state, requires _only_ the use of the command-line interface, with no assistance from a graphical user interface.
+Working with a user interface like _Ubuntu Desktop_, _Fedora_, or other, major consumer-focused Linux distributions can be a good introduction to working with Linux, as you inevitably will find yourself interacting with the terminal for one reason or another.
 
-## So what separates Ubuntu from the rest?
+Operating from the command-line brings you "closer" to the fundamental operations of the system itself, which is why it also happens to be an excellent means of both learning, as well as administering, a server environment.
+
+For the purposes of our exercises, we're going to look at this from the perspective of an administrator seeking to operate a **web hosting environment** through the use of **Ubuntu Server 20.04 LTS**, which, in its ideal (minimal) initial state, provides _only_ the use of the command-line interface, with no assistance from a graphical user interface.
+
+# So what separates Ubuntu from the rest?
 
 Let's start from the beginning:
 
