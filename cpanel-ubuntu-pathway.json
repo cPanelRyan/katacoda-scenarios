@@ -1,0 +1,11 @@
+{
+  "title": "Ubuntu Server Primer",
+  "description": "Getting comfortable with some of the key components of an Ubuntu Server environment.",
+  "courses": [
+    {
+      "course_id": "ubuntu-2004",
+      "title": "Ubuntu 20.04 Instance",
+      "description": "General purpose environment"
+    }
+  ]
+}
